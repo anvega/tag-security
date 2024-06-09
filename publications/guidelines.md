@@ -7,7 +7,8 @@ We strive for quality over quantity, emphasizing the importance of not duplicati
 While some of our publications serve as "tour guides" rather than comprehensive handbooks, there is a recognized need for more in-depth books on building security that are regularly updated. These guidelines aim to foster a rigorous, clear, and professional standard for all our publications, ensuring they remain valuable resources for the community.
 
 We intentionally maintain a low-friction, low-barrier approach to publishing to keep these efforts enjoyable and accessible.
-However, we ask authors to consider these guidelines upfront, as the proofing and editorial work often involves significant effort from volunteers. Unlike professionals at a publishing house, these volunteers juggle these tasks alongside their regular commitments. To ease this burden, we encourage authors to strive for the highest quality in their initial drafts, ensuring clarity, accuracy, and coherence from the start. This consideration helps make the collaborative process more efficient and enjoyable for everyone involved.
+However, we ask authors to consider these guidelines upfront, as the proofing and editorial work often involves significant effort from volunteers. Unlike professionals at a publishing house, these volunteers juggle these tasks alongside their regular commitments. To ease this burden, we encourage authors to strive for the highest quality in their initial drafts, ensuring clarity, accuracy, and coherence from the start. 
+This consideration helps make the collaborative process more efficient and enjoyable for everyone involved.
 
 ## Initial Publishing Guidelines and Standards
 
